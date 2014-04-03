@@ -18,9 +18,10 @@
 {
     [super viewDidLoad];
 	// Do any additional setup after loading the view, typically from a nib.
-    NSLog(@"dddd");
-    NSString *testStr=@"ddddsssaadw";
-    NSLog(@"%@",testStr);
+}
+
+-(void)justTest{
+    
 }
 
 - (void)didReceiveMemoryWarning
